@@ -1,0 +1,5 @@
+utw deny from 192.0.2.10
+utw deny from 198.51.100.25
+utw deny from 203.0.113.55
+utw deny from 192.168.1.10
+utw deny from 10.0.0.45
